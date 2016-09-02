@@ -1,19 +1,4 @@
-name: shawncallahan
-favicon: null
-layout_spectrum: 0.5381885888054967
 typography_spectrum: 0.5634900517761707
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6716477673035115
   saturation: 0.9529673396609724
   rhythmicContrast: 0.0022511447314172983
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5381885888054967
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: shawncallahan
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: the small stories
 purpose: []
